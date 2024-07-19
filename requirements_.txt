@@ -1,0 +1,4 @@
+streamlit
+pandas
+mmh3
+PyGithub
