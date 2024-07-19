@@ -1,0 +1,17 @@
+ID,Question,OptionA,OptionB,OptionC,OptionD,Answer
+Amazon1,PQ1,The heart of the Earth,The lungs of the Earth,The brain of the Earth,The soul of the Earth,B
+Amazon1,PQ2,10%,15%,20%,25%,C
+Amazon1,PQ3,Pollution and mining,"Deforestation from logging, agriculture, and urban expansion",Climate change and tourism,Natural disasters and poaching,B
+Amazon1,PQ4,Genetic engineering and breeding programs,Drone mapping and satellite monitoring,Solar panels and wind turbines,Artificial intelligence and robotics,B
+Amazon1,PQ5,It provides recreational areas for tourists,"It supports countless species, including humans",It generates revenue for local economies,It is a source of medicinal plants,B
+Amazon1,CQ1,Local farmers and residents,Scientists and environmentalists,Politicians and businessmen,Tourists and explorers,B
+Amazon1,CQ2,To increase tourism in the Amazon,To combat illegal activities and track changes,To promote urban expansion,To develop new agricultural techniques,B
+Amazon1,CQ3,Decreased deforestation rates,Growing awareness and international cooperation,Increased funding for tourism,Advancements in technology,B
+Sahara1,PQ1,The largest cold desert,The largest hot desert,The smallest desert,The wettest desert,B
+Sahara1,PQ2,Sand dunes and rainforests,Rocky plateaus and jungles,"Sand dunes, rocky plateaus, and sparse vegetation",Forests and mountains,C
+Sahara1,PQ3,Using modern technology,Relying on their deep knowledge of the land,Following animal migrations,Using maps and compasses,B
+Sahara1,PQ4,Internet and smartphones,Solar-powered devices and GPS systems,Electric vehicles and drones,Satellite phones and computers,B
+Sahara1,PQ5,Oil reserves,"Renewable energy, particularly solar power",Rich agricultural land,Precious minerals and gems,B
+Sahara1,CQ1,By attracting more tourists,By transforming it into a powerhouse of clean energy,By promoting urban development,By reducing the population,B
+Sahara1,CQ2,Those that can survive in cold climates,Those that are uniquely adapted to the extreme environment,Those that thrive in wetlands,Those that prefer tropical climates,B
+Sahara1,CQ3,Fighting against illegal wildlife trade,Combating climate change,Promoting space exploration,Supporting international trade,B
