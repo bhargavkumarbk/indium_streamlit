@@ -71,9 +71,9 @@ def append_to_df(selected_org,email_id,set_no, ticket_summary, ticket_response, 
 
 def append_to_github_csv(df):
     # define parameters for a request
-    token = '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' 
-    owner = 'harikaa6'
-    repo = 'streamlit-dashboard'
+    token = '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' 
+    owner = 'bhargavkumarbk'
+    repo = 'indium_streamlit'
     path = 'Streamlit_Response.csv'
     commit_message = 'Update CSV file'
     github = Github(token)
